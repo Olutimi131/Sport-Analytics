@@ -1,0 +1,39 @@
+# Python & Byte-code
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches & Linters
+.pytest_cache/
+.ruff_cache/
+.cache/
+CACHEDIR.TAG
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Large Datasets & Data files
+*.csv
+*.xlsx
+*.json
+!models/feature_names.json
+!models/training_metadata.json
+
+# Large ML Model Artifacts / Weights
+*.joblib
+*.pkl
+*.h5
+*.onnx
+
+# IDEs & System Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment Variables & Secrets
+.env
+*.pem

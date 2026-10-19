@@ -1,0 +1,272 @@
+{
+  "sorted_gain_importance": [
+    {
+      "feature": "tournament_tier_Tier 1 (Major / Worlds)",
+      "importance": 0.44129
+    },
+    {
+      "feature": "tournament_tier_Tier 2 (Regional Masters)",
+      "importance": 0.16915
+    },
+    {
+      "feature": "total_cross_channel_impressions",
+      "importance": 0.12131
+    },
+    {
+      "feature": "tv_brand_integrations",
+      "importance": 0.07231
+    },
+    {
+      "feature": "tournament_tier_Tier 3 (Challengers)",
+      "importance": 0.07173
+    },
+    {
+      "feature": "tv_broadcast_hours",
+      "importance": 0.02133
+    },
+    {
+      "feature": "social_impressions",
+      "importance": 0.01464
+    },
+    {
+      "feature": "stage_of_competition_Grand Final",
+      "importance": 0.01352
+    },
+    {
+      "feature": "social_video_views",
+      "importance": 0.01049
+    },
+    {
+      "feature": "tv_avg_household_reach",
+      "importance": 0.00844
+    },
+    {
+      "feature": "stream_hours_watched",
+      "importance": 0.00763
+    },
+    {
+      "feature": "sponsor_contract_cost_usd",
+      "importance": 0.00534
+    },
+    {
+      "feature": "stream_avg_ccv",
+      "importance": 0.00376
+    },
+    {
+      "feature": "influencer_player_amplification_count",
+      "importance": 0.00266
+    },
+    {
+      "feature": "social_engagement_volume",
+      "importance": 0.00237
+    },
+    {
+      "feature": "stage_of_competition_Group Stage",
+      "importance": 0.00218
+    },
+    {
+      "feature": "channel_share_social",
+      "importance": 0.00206
+    },
+    {
+      "feature": "stream_broadcast_hours",
+      "importance": 0.00191
+    },
+    {
+      "feature": "stream_peak_ccv",
+      "importance": 0.00169
+    },
+    {
+      "feature": "stream_chat_mentions",
+      "importance": 0.00165
+    },
+    {
+      "feature": "stream_logo_quality_index",
+      "importance": 0.00157
+    },
+    {
+      "feature": "online_articles_count",
+      "importance": 0.0015
+    },
+    {
+      "feature": "channel_share_tv",
+      "importance": 0.0014
+    },
+    {
+      "feature": "placement_asset_type_Replay Transition Sting & Lower-Third",
+      "importance": 0.00136
+    },
+    {
+      "feature": "stream_effective_exposure_mins",
+      "importance": 0.00128
+    },
+    {
+      "feature": "channel_share_streaming",
+      "importance": 0.00121
+    },
+    {
+      "feature": "print_composite_impact_score",
+      "importance": 0.0012
+    },
+    {
+      "feature": "placement_asset_type_Tournament Title / Naming Rights",
+      "importance": 0.00116
+    },
+    {
+      "feature": "tv_cpm_rate",
+      "importance": 0.001
+    },
+    {
+      "feature": "team_name_T1",
+      "importance": 0.00082
+    },
+    {
+      "feature": "channel_share_print",
+      "importance": 0.00079
+    },
+    {
+      "feature": "sponsor_category_Automotive (BMW, Mercedes)",
+      "importance": 0.00068
+    },
+    {
+      "feature": "stream_logo_screen_time_mins",
+      "importance": 0.00062
+    },
+    {
+      "feature": "stage_of_competition_Semi-Final",
+      "importance": 0.00059
+    },
+    {
+      "feature": "stream_ccv_peak_ratio",
+      "importance": 0.00059
+    },
+    {
+      "feature": "stage_of_competition_Playoff",
+      "importance": 0.00058
+    },
+    {
+      "feature": "placement_asset_type_Jersey Chest / Primary Sleeve",
+      "importance": 0.00055
+    },
+    {
+      "feature": "placement_asset_type_In-Game Virtual Map Banner",
+      "importance": 0.00054
+    },
+    {
+      "feature": "social_engagement_rate",
+      "importance": 0.00046
+    },
+    {
+      "feature": "team_name_Team Nova",
+      "importance": 0.00045
+    },
+    {
+      "feature": "online_total_readership",
+      "importance": 0.00043
+    },
+    {
+      "feature": "sponsor_category_Energy Drinks (Red Bull, Monster)",
+      "importance": 0.00042
+    },
+    {
+      "feature": "social_post_volume",
+      "importance": 0.00042
+    },
+    {
+      "feature": "sponsor_category_Gaming Peripherals (Logitech, Razer)",
+      "importance": 0.00041
+    },
+    {
+      "feature": "social_video_view_ratio",
+      "importance": 0.0004
+    },
+    {
+      "feature": "team_name_Cloud9",
+      "importance": 0.00037
+    },
+    {
+      "feature": "game_title_Rocket League",
+      "importance": 0.00037
+    },
+    {
+      "feature": "placement_asset_type_Broadcast HUD & Overlay",
+      "importance": 0.00037
+    },
+    {
+      "feature": "online_editorial_sentiment",
+      "importance": 0.00036
+    },
+    {
+      "feature": "headline_mention_rate",
+      "importance": 0.00033
+    },
+    {
+      "feature": "game_title_League of Legends",
+      "importance": 0.00032
+    },
+    {
+      "feature": "sponsor_category_Apparel & Footwear (Nike, Puma)",
+      "importance": 0.00032
+    },
+    {
+      "feature": "game_title_CS2",
+      "importance": 0.00032
+    },
+    {
+      "feature": "game_title_Dota 2",
+      "importance": 0.0003
+    },
+    {
+      "feature": "team_name_Fnatic",
+      "importance": 0.00028
+    },
+    {
+      "feature": "sponsor_category_Telecom & Hardware (Intel, AT&T)",
+      "importance": 0.00027
+    },
+    {
+      "feature": "sponsor_category_FinTech & Crypto (Coinbase, Revolut)",
+      "importance": 0.00026
+    },
+    {
+      "feature": "team_name_Phantom Squad",
+      "importance": 0.00023
+    },
+    {
+      "feature": "game_title_Valorant",
+      "importance": 0.0
+    },
+    {
+      "feature": "team_name_CyberX",
+      "importance": 0.0
+    },
+    {
+      "feature": "team_name_FaZe Clan",
+      "importance": 0.0
+    },
+    {
+      "feature": "team_name_G2 Esports",
+      "importance": 0.0
+    },
+    {
+      "feature": "team_name_Red Vortex",
+      "importance": 0.0
+    },
+    {
+      "feature": "team_name_Team Alpha",
+      "importance": 0.0
+    },
+    {
+      "feature": "team_name_Titan Esports",
+      "importance": 0.0
+    }
+  ],
+  "channel_group_attribution": {
+    "Streaming": 0.0219,
+    "Television": 0.1031,
+    "Social Media": 0.0335,
+    "Online Print & Editorial": 0.0046,
+    "Context & Tournament": 0.8316,
+    "Contract Cost": 0.0053
+  }
+}
